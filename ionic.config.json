@@ -1,0 +1,7 @@
+{
+  "name": "mk_serveur",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
